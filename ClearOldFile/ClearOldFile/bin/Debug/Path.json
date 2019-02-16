@@ -1,0 +1,66 @@
+﻿{
+  "DataPaths": [
+    "C:\\lotteryapi_www\\LocalLog\\",
+    "C:\\lotteryapi_www_test\\Log\\error\\",
+    "C:\\lotteryapi_www_test\\Log\\Debug\\",
+    "C:\\lotteryapi_www_test\\Log\\info\\",
+    "C:\\lotteryapi_www_test\\Log\\warn\\",
+    "F:\\WebSiteLog\\lotteryapi_www\\error\\",
+    "F:\\WebSiteLog\\lotteryapi_www\\Debug\\",
+    "F:\\WebSiteLog\\lotteryapi_www\\info\\",
+    "F:\\WebSiteLog\\lotteryapi_www\\warn\\",
+    "F:\\IISLog\\W3SVC1\\",
+    "D:\\Service\\01重慶時時彩\\Log\\error\\",
+    "D:\\Service\\01重慶時時彩\\Log\\Debug\\",
+    "D:\\Service\\01重慶時時彩\\Log\\info\\",
+    "D:\\Service\\01重慶時時彩\\Log\\warn\\",
+    "D:\\Service\\02北京賽車\\Log\\error\\",
+    "D:\\Service\\02北京賽車\\Log\\Debug\\",
+    "D:\\Service\\02北京賽車\\Log\\info\\",
+    "D:\\Service\\02北京賽車\\Log\\warn\\",
+    "D:\\Service\\03廣東快樂十分\\Log\\error\\",
+    "D:\\Service\\03廣東快樂十分\\Log\\Debug\\",
+    "D:\\Service\\03廣東快樂十分\\Log\\info\\",
+    "D:\\Service\\03廣東快樂十分\\Log\\warn\\",
+    "D:\\Service\\04幸運農場\\Log\\error\\",
+    "D:\\Service\\04幸運農場\\Log\\Debug\\",
+    "D:\\Service\\04幸運農場\\Log\\info\\",
+    "D:\\Service\\04幸運農場\\Log\\warn\\",
+
+    "D:\\Service\\WebCrawler.CQSC\\Log\\error\\",
+    "D:\\Service\\WebCrawler.CQSC\\Log\\Debug\\",
+    "D:\\Service\\WebCrawler.CQSC\\Log\\info\\",
+    "D:\\Service\\WebCrawler.CQSC\\Log\\warn\\",
+
+    "D:\\Service\\WebCrawler.CQSCM\\Log\\error\\",
+    "D:\\Service\\WebCrawler.CQSCM\\Log\\Debug\\",
+    "D:\\Service\\WebCrawler.CQSCM\\Log\\info\\",
+    "D:\\Service\\WebCrawler.CQSCM\\Log\\warn\\",
+
+    "D:\\Service\\WebCrawler.CQSCM_v1\\Log\\error\\",
+    "D:\\Service\\WebCrawler.CQSCM_v1\\Log\\Debug\\",
+    "D:\\Service\\WebCrawler.CQSCM_v1\\Log\\info\\",
+    "D:\\Service\\WebCrawler.CQSCM_v1\\Log\\warn\\",
+
+    "D:\\Service\\WebCrawler.JISC\\Log\\error\\",
+    "D:\\Service\\WebCrawler.JISC\\Log\\Debug\\",
+    "D:\\Service\\WebCrawler.JISC\\Log\\info\\",
+    "D:\\Service\\WebCrawler.JISC\\Log\\warn\\",
+
+    "D:\\Service\\WebCrawler.JIS_Master105\\Log\\error\\",
+    "D:\\Service\\WebCrawler.JIS_Master105\\Log\\Debug\\",
+    "D:\\Service\\WebCrawler.JIS_Master105\\Log\\info\\",
+    "D:\\Service\\WebCrawler.JIS_Master105\\Log\\warn\\",
+
+    "D:\\Service\\WebCrawler.JISKLSF\\Log\\error\\",
+    "D:\\Service\\WebCrawler.JISKLSF\\Log\\Debug\\",
+    "D:\\Service\\WebCrawler.JISKLSF\\Log\\info\\",
+    "D:\\Service\\WebCrawler.JISKLSF\\Log\\warn\\",
+
+    "D:\\Service\\WebCrawler.LuckyFarm_v1\\Log\\error\\",
+    "D:\\Service\\WebCrawler.LuckyFarm_v1\\Log\\Debug\\",
+    "D:\\Service\\WebCrawler.LuckyFarm_v1\\Log\\info\\",
+    "D:\\Service\\WebCrawler.LuckyFarm_v1\\Log\\warn\\"
+  ],
+  "DelDays": 1 
+}
